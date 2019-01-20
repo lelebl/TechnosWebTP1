@@ -1,3 +1,6 @@
+
+
+
 .nav1{ /*accueil */
 	position: fixed;
 	bottom: 0px;
@@ -112,20 +115,23 @@ article{
 .a0{
 	position: absolute;
 	 top: 300px;
-  	left: 100px;
+  	left: 250px;
   	background-color: #404040; 
+	  box-shadow: 5px 5px 18px #555;
 }
 .a1 {
 	position: absolute;
 	 top: 600px;
-  		right: 100px;
+  		right: 250px;
   		background-color: #606060; 
+	  box-shadow: 5px 5px 18px #555;
 }
 .a2 {
 	position: absolute;
 	 top: 930px;
-  	left: 100px;
+  	left: 250px;
   	background-color: #808080; 
+	  box-shadow: 5px 5px 18px #555;
 }
 
 .a4{
@@ -223,6 +229,7 @@ footer a {
 	text-decoration: none; 
 	text-align: center;
 }
+
 
 
 
